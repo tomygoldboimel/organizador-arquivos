@@ -1,8 +1,6 @@
 from encerraPrograma import encerraPrograma
 from organizador import organizar_arquivos
 from desorganizador import desorganizar_arquivos
-from tkinter import Tk
-from tkinter.filedialog import askdirectory
 from menu import menu
 
 if __name__ == "__main__":
