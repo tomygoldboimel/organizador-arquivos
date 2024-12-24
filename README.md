@@ -1,4 +1,4 @@
-# Projeto Organizador de Arquivos
+# Projeto - Organizador de Arquivos em Python
 
 Este projeto organiza e desorganiza arquivos do path informado pelo usuário.
 
